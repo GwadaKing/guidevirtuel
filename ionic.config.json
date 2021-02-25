@@ -1,0 +1,7 @@
+{
+  "name": "guidevirtuel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
